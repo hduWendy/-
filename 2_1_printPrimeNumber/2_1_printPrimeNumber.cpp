@@ -18,6 +18,7 @@ char isPrimeNumber(int test_num) //素数返回1，非素数返回0
 	return 1; //全部不能整除，则为素数，返回1
 }
 
+
 int main()
 {
 	int total_num = 100; //查找多少以内的素数
